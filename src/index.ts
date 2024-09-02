@@ -19,7 +19,7 @@ import {
 } from "./Uint8Array";
 import { compressToUTF16, decompressFromUTF16 } from "./UTF16";
 
-export default {
+export {
     _compress,
     _decompress,
     compress,
